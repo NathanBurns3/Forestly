@@ -1,0 +1,7 @@
+1. What is the definition of type? (Hint: there are two parts to the definition)
+    Type can be defined as a range of valid values or as a range of valid operations
+2. What is the difference between a strongly and weakly typed high-level programming language?
+    Strongly typed language - type errors are always detected
+    Weakly typed language - type errors are not always detected
+3. Why do applications written in a strongly typed high-level programming language usually have fewer bugs than applications written in weakly typed high-level programming languages?
+    Applications written in a strongly typed language usually have fewer bugs because they are detected at compile time before they are ran

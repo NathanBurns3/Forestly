@@ -1,0 +1,5 @@
+1. create 2 functions
+    1a. first function will calculate the carbon dioxide emissions
+    1b. second function will calculate the percent increase/decrease in acres consumed by forest fire between the two years
+2. create 5 variables to store the 2 years given, the 2 acre numbers given, and the carbon dioxide emissions per acre
+3. Print the results to the console

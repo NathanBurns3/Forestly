@@ -1,0 +1,1 @@
+Can you test the input from a user to make sure it is a valid input for the variable you are assigning it to?
